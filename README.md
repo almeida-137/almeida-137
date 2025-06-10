@@ -16,7 +16,7 @@ Atualmente, estou focado em criar **micro SaaS rentáveis**, apps escaláveis e 
 - **Linguagens:** JavaScript, TypeScript, PHP, Python
 - **Frontend:** React.js, Next.js, Tailwind CSS, Shadcn/UI
 - **Backend:** Node.js, Laravel, Express
-- **Banco de Dados:** PostgreSQL, MySQL, Supabase
+- **Banco de Dados:** PostgreSQL, MySQL, Supabase, MongoDB
 - **Outros:** Git, Vercel, Railway, Docker (básico)
 - **Idiomas:** Português (nativo), Inglês (intermediário)
 
