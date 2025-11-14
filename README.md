@@ -35,7 +35,7 @@ Atualmente, estou focado em criar **micro SaaS rentáveis**, apps escaláveis e 
 
 - 💼 [LinkedIn](https://linkedin.com/in/mateus-de-almeida-a66643329)
 - 🐙 [GitHub](https://github.com/almeida-137)
-- ✉️ **contato.almeidagf@gmail.com**
+- ✉️ **contato@mavistudio.com.br**
 
 ---
 
