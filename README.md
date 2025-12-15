@@ -1,48 +1,50 @@
 <h1 align="center">Mateus de Almeida</h1>
-<p align="center">💻 Desenvolvedor Full Stack | SaaS Specialist | Remote Friendly</p>
+<p align="center">
+💻 Desenvolvedor Full Stack | Software Engineer | SaaS & APIs | Remote Friendly
+</p>
 
 ---
 
-### 👨‍💼 Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou um desenvolvedor web com mais de **4 anos de experiência**, atuando em projetos de **SaaS**, **landing pages**, **sistemas de gestão** e **produtos digitais**. Já trabalhei com startups, freelas e empresas do setor moveleiro, desenvolvendo e mantendo soluções robustas no backend e frontend.
+Sou **Desenvolvedor Full Stack** com mais de **4 anos de experiência prática** no desenvolvimento de **sistemas web, plataformas SaaS em produção e produtos digitais**.
 
-Atualmente, estou focado em criar **micro SaaS rentáveis**, apps escaláveis e **produtos com propósito real**, sempre com foco em entregas ágeis e limpas.
+Atuo tanto no **frontend quanto no backend**, com foco em **arquitetura escalável, performance e boas práticas de código**. Tenho experiência em projetos para **startups, sistemas corporativos, PDV, integrações fiscais e SaaS**, sempre trabalhando próximo às regras de negócio e à entrega de valor real.
 
----
-
-### 🧰 Tecnologias que domino
-
-- **Linguagens:** JavaScript, TypeScript, PHP, Python
-- **Frontend:** React.js, Next.js, Tailwind CSS, Shadcn/UI
-- **Backend:** Node.js, Laravel, Express
-- **Banco de Dados:** PostgreSQL, MySQL, Supabase, MongoDB
-- **Outros:** Git, Vercel, Railway, Docker (básico)
-- **Idiomas:** Português (nativo), Inglês (intermediário)
+Atualmente, foco no desenvolvimento de **micro SaaS**, automações e produtos digitais com potencial de escala.
 
 ---
 
-### 🚀 Projetos em destaque
+## 🧰 Stack Principal
 
-| Projeto | Descrição | Stack |
-|--------|-----------|--------|
-| [DocSafe](https://docsafe.app.br) | SaaS de Segurança do Trabalho. | Next.js + Supabase |
-| [Orbitsys](https://orbitsys.com.br) | PDV e Gestão de Estoque. | React.js + TypeScript + MongoDB + Electron |
-
----
-
-### 📫 Entre em contato
-
-- 💼 [LinkedIn](https://linkedin.com/in/mateus-de-almeida-a66643329)
-- 🐙 [GitHub](https://github.com/almeida-137)
-- ✉️ **contato@mavistudio.com.br**
+* **Linguagens:** JavaScript, TypeScript, PHP, Python
+* **Frontend:** React.js, Next.js, Tailwind CSS, shadcn/ui
+* **Backend:** Node.js, Laravel, Express
+* **Banco de Dados:** PostgreSQL, MySQL, MongoDB, Supabase
+* **Infra & Ferramentas:** Git, Docker, Vercel, Railway
+* **Idiomas:** Português (nativo), Inglês (técnico)
 
 ---
 
-### ⚡ Curiosidades
+## 🚀 Projetos em Destaque
 
-- 🎯 Estou disponível para **freelas** e **remoto (PJ ou CLT)**.
-- 🧪 Curioso por IA, automações e negócios digitais.
-- 📌 Sempre buscando resolver **dores reais com código**.
+| Projeto                                 | Descrição                                                                                                        | Stack                                    |
+| --------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| **[DocSafe](https://docsafe.app.br)**   | SaaS de Segurança do Trabalho com gestão de documentos, PGR, EPIs, treinamentos, QR Code e integrações externas. | Next.js • TypeScript • Supabase • Stripe |
+| **[Orbitsys](https://orbitsys.com.br)** | Sistema de **PDV e Gestão de Estoque**, com suporte a PDV offline, integrações fiscais e app desktop.            | React • TypeScript • MongoDB • Electron  |
 
 ---
+
+## 📫 Contato
+
+* 💼 [LinkedIn](https://linkedin.com/in/mateus-de-almeida-a66643329)
+* 🐙 [GitHub](https://github.com/almeida-137)
+* ✉️ **[contato@mavistudio.com.br](mailto:contato@mavistudio.com.br)**
+
+---
+
+## ⚡ Extras
+
+* 🚀 Disponível para **oportunidades remotas (CLT ou PJ)**
+* 🧠 Interesse em **SaaS, automações, IA aplicada e produtos digitais**
+* 🎯 Foco em resolver **problemas reais com software bem construído**
