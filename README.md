@@ -39,7 +39,7 @@ Atualmente, foco no desenvolvimento de **micro SaaS**, automações e produtos d
 
 * 💼 [LinkedIn](https://linkedin.com/in/mateus-de-almeida-a66643329)
 * 🐙 [GitHub](https://github.com/almeida-137)
-* ✉️ **[contato@mavistudio.com.br](mailto:contato@mavistudio.com.br)**
+* ✉️ **[contato@mavistudio.com.br](mailto:contato.almeidagf@gmail.com)**
 
 ---
 
